@@ -25,7 +25,7 @@ SECRET_KEY = 'lo8r%j!apb%x#_x@$y#xus+725oi@+t2@4*0lgbvp4m&c939t)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','covidkdata.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1','covidkdata.herokuapp.com']
 
 
 # Application definition
